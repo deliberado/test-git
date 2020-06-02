@@ -1,1 +1,3 @@
 # terceiro arquivo
+
+print("teste")
